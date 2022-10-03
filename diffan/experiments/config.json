@@ -1,0 +1,5 @@
+{
+    "exp_results_folder": "/home/s2086085/RDS/experiment_data/causal_discovery",
+    "dataset_folder": "/home/s2086085/idcom_data/synthetic_causal_discovery",
+    "real_dataset_folder": "/home/s2086085/idcom_data/real_causal_discovery"
+}
