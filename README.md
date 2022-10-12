@@ -1,8 +1,8 @@
-# DiffAN_experiments
+# DiffAN
 
 Code for the paper "Diffusion Models for Causal Discovery via Topological Ordering".
 
-Private repo with DiffAN code.
+![](assets/topological_ordering_overview.png)
 
 ## Running code
 
