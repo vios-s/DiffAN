@@ -23,7 +23,7 @@ diffan = DiffAN(n_nodes, residue = False)
 ```
 will use the approximation.
 
-## Requirements
+## Install Requirements
 
 The repo use python and R code. To install the python dependencies, run:
 
@@ -31,7 +31,6 @@ The repo use python and R code. To install the python dependencies, run:
 conda env create -f environment.yml
 ```
 
-If the R dependencies are not installed, some of the pruning function will not work. In this case, we advise to open an R session and install the specific packages from R directly.
-
-```
+The most important python dependencies are `numpy`, `torch` and `functorch` which can be easily installed manually if one prefer not to use conda. `cdt` is needed for using the R pruning code.
+If the R dependencies are not installed, some of the pruning functions won't work. In this case, we advise to open an R session and install the specific packages from R directly.
 
