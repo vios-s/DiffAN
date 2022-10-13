@@ -1,6 +1,6 @@
 # DiffAN
 
-Code for the paper "Diffusion Models for Causal Discovery via Topological Ordering".
+Code for the [paper](https://arxiv.org/abs/2210.06201) "Diffusion Models for Causal Discovery via Topological Ordering".
 
 ![](assets/topological_ordering_overview.png)
 
